@@ -216,6 +216,6 @@ WHERE email = 'tu_correo@ejemplo.com';
 ![Validacion de campos](capturas/errores.png)
 
 .Formulario GET 
-![Validacion de campos](capturas/formularioGET.png)
+![seleccion](capturas/formularioGET.png)
 
 
